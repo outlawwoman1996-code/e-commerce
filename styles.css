@@ -223,6 +223,7 @@ margin: 0 auto;
 
 .books{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .book{
